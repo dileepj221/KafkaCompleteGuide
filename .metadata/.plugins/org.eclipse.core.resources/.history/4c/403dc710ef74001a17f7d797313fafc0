@@ -1,0 +1,5 @@
+package com.poc.kafka.consumer;
+
+public class Conusmer {
+
+}

@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.kafka=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=KafkaProducer
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.2.5.RELEASE
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Kafka Producer POC
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.example
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=KafkaProducer
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.poc.kafka
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

@@ -1,0 +1,10 @@
+package com.poc.kafka.consumer;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class Consumer {
+	
+	Logger logger = LoggerFactory.getLogger(Consumer.class.getName());
+
+}

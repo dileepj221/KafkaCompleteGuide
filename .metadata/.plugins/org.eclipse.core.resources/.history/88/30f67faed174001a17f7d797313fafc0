@@ -1,0 +1,15 @@
+package com.poc.kafka.producer;
+
+import java.util.Properties;
+
+public class KafkaProducer {
+	
+	//Create Kafka properties
+	Properties properties = new Properties();
+	proper
+	
+	//Create the producer
+	
+	//send data
+
+}

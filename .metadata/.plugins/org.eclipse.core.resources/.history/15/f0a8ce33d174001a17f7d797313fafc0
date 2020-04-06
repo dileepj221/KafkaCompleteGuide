@@ -1,0 +1,5 @@
+package com.poc.kafka.producer;
+
+public class KafkaProducer {
+
+}

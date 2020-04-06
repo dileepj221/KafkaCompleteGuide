@@ -1,0 +1,32 @@
+package com.poc.kafka;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.poc.kafka.consumer.Consumer1;
+import com.poc.kafka.producer.ProducerWithKeys;
+
+@SpringBootApplication
+public class KafkaApplicationRunner implements CommandLineRunner {
+
+	public static void main(String[] args) {
+		SpringApplication.run(KafkaApplicationRunner.class, args);
+		System.out.println("hello");
+	}
+
+	@Override
+	public void run(String... args) throws Exception {
+		// Producer producer = new Producer();
+		// ProducerWithCallback producer = new ProducerWithCallback();
+		
+		/* ProducerWithKeys producer = new ProducerWithKeys(); producer.produce(); */
+		 
+
+			
+			  Consumer1 consumer = new Consumer1(); consumer.consume();
+			 
+
+	}
+
+}
